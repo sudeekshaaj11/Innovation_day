@@ -1,0 +1,65 @@
+[
+ {
+   "level1": "Acme",
+   "person": "Max Armstrong",
+   "kpi": 75,
+   "level2": "",
+   "level3": "",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Dwayne Billiot",
+   "kpi": 80,
+   "level2": "North America",
+   "level3": "",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Robert C. Carmichael",
+   "kpi": 50,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Edward Foster",
+   "kpi": 60,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 1",
+   "level5": ""
+ },
+ {
+   "level1": "Acme",
+   "person": "Jodie Hilton",
+   "kpi": 20,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 1",
+   "level5": "Location 1"
+ },
+ {
+   "level1": "Acme",
+   "person": "Finlay Akhtar",
+   "kpi": 10,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 1",
+   "level5": "Location 2"
+ },
+ {
+   "level1": "Acme",
+   "person": "Joe Young",
+   "kpi": 34,
+   "level2": "North America",
+   "level3": "United States",
+   "level4": "Area 1",
+   "level5": "Location 3"
+ }
+]
